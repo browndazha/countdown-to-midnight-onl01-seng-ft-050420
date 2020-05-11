@@ -1,3 +1,8 @@
+number = 1
+while number < 0
+  puts "#{number} SECOND(S)!"
+  x += 1
+end
 #write your code here
 
 def countdown
